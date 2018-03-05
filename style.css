@@ -21,9 +21,28 @@
   border: none;
 }
 
-.footer-background {
+hr {
+  height: 1px;
+  margin: 3px 0 30px;
+  border: none;
+  background: #FFF;
+}
+
+.footer {
+  padding: 50px 0;
   background-color: #292929;
   color: #FFF;
-  padding-top: 20px;
-  padding-bottom: 20px;
+}
+
+.footer .footer-header {
+  text-transform: uppercase;
+}
+
+.footer a {
+  color: #FFF;
+}
+
+.footer input {
+  border: none;
+
 }
