@@ -1,0 +1,18 @@
+.ui.borderless.topmenu.menu {
+  height: 49px;
+  background-color: #F5F5F5;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.footer-background {
+  background-color: #292929;
+  color: #FFF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
